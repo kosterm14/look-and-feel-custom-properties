@@ -1,31 +1,31 @@
-function myFunction() {
-    var element = document.getElementById("myDIV");
-    element.classList.toggle("show");
+function scrollButton() {
+    var kennisclip = document.getElementById("myDIV");
+    kennisclip.classList.toggle("show");
 
-    var element = document.getElementById("myDIV2");
-    element.classList.toggle("show2");
+    var kennisclip = document.getElementById("myDIV2");
+    kennisclip.classList.toggle("show2");
 
-    var element = document.getElementById("myDIV3");
-    element.classList.toggle("show3");
+    var kennisclip = document.getElementById("myDIV3");
+    kennisclip.classList.toggle("show3");
 
-    var element = document.getElementById("myDIV4");
-    element.classList.toggle("show4");
+    var kennisclip = document.getElementById("myDIV4");
+    kennisclip.classList.toggle("show4");
 
-    var element = document.getElementById("text1");
-    element.classList.toggle("showText1");
+    var uitleg = document.getElementById("text1");
+    uitleg.classList.toggle("showText1");
 
-    var element = document.getElementById("text2");
-    element.classList.toggle("showText2");
+    var kennisclipText = document.getElementById("text2");
+    kennisclipText.classList.toggle("showText2");
 
-    var element = document.getElementById("text3");
-    element.classList.toggle("showText3");
+    var kennisclipText = document.getElementById("text3");
+    kennisclipText.classList.toggle("showText3");
 
-    var element = document.getElementById("text4");
-    element.classList.toggle("showText4");
+    var kennisclipText = document.getElementById("text4");
+    kennisclipText.classList.toggle("showText4");
 
-    var element = document.getElementById("text5");
-    element.classList.toggle("showText5");
+    var kennisclipText = document.getElementById("text5");
+    kennisclipText.classList.toggle("showText5");
 
-    var element = document.getElementById("button");
-    element.classList.toggle("button-reversed");
+    var button = document.getElementById("button");
+    button.classList.toggle("button-reversed");
   }
