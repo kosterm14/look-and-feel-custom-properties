@@ -28,16 +28,17 @@ img.header-logo {
 }
 
 .h1 {
-  grid-column-start: 3;
-  grid-column-end: 5;
+  grid-column-start: 2;
+  grid-column-end: 6;
   grid-row-start: 1;
+  height: 168px;
 }
 
 h1 {
   font-size: 3.157rem;
   font-family: var(--rigid);
   color: var(--blue);
-  margin-top: -2%;
+  margin-top: 2%;
 }
 
 .grid-container {
@@ -177,6 +178,10 @@ button {
   transform: rotate(90deg);
 }
 
+strong {
+  padding-left: 95px;
+}
+
 @media only screen and (max-width: 435px) {
   .grid-container {
     display: grid;
@@ -195,7 +200,7 @@ button {
     font-size: 2rem;
     font-family: var(--rigid);
     color: var(--blue);
-    margin-top: 0%;
+    margin-top: 12%;
   }
 
   .h2 {
@@ -252,9 +257,13 @@ button {
     display: grid;
     align-items: flex-end;
   }
+
+  strong {
+  padding-left: 1px;
+  }
 }
 
-/* h4 {
+h4 {
   text-align: center;
   font-size: 1rem;
   font-family: var(--rigid);
@@ -335,4 +344,4 @@ button {
 
 .clear {
   opacity: 0%;
-} */
+}
