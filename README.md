@@ -3,11 +3,12 @@ Ik heb in deze deeltaak mijn CSS een redesign gegeven om het zo duidelijker te m
 
 ## Beschrijving
 Wat heb ik gedaan?
-Custom properties toegevoegd voor de kleuren en fonts
-CSS gesorteerd op dezelfde volgorde als de HTML
-Herhalende CSS verwijderd
-Alle position: absolute elementen in een grid gezet
-Media queries toegevoegd voor een mobile versie
+
+1. Custom properties toegevoegd voor de kleuren en fonts
+2. CSS gesorteerd op dezelfde volgorde als de HTML
+3. Herhalende CSS verwijderd
+4. Alle position: absolute elementen in een grid gezet
+5. Media queries toegevoegd voor een mobile versie
 
 ## Kenmerken
 Ik heb gebruik gemaakt van de volgende talen:
