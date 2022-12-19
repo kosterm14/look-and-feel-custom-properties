@@ -1,9 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Custom properties
+Ik heb in deze deeltaak mijn CSS een redesign gegeven om het zo duidelijker te maken.
 
-# Naam deeltaak
+## Beschrijving
+Wat heb ik gedaan?
+Custom properties toegevoegd voor de kleuren en fonts
+CSS gesorteerd op dezelfde volgorde als de HTML
+Herhalende CSS verwijderd
+Alle position: absolute elementen in een grid gezet
+Media queries toegevoegd voor een mobile versie
 
+## Kenmerken
+Ik heb gebruik gemaakt van de volgende talen:
+- HTML
+- CSS
+- Javascript
 
 ## Licentie
 
